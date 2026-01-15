@@ -1,0 +1,239 @@
+,Country,Sport_1,Points_1,Sport_2,Points_2,Sport_3,Points_3
+0,Italy,Athletics,12.36,Fencing,9.84,Swimming,9.11
+1,Norway,Athletics,3.5,Sailing,1.74,Triathlon,1.59
+2,Sweden,Equestrian,5.4,Sailing,3.34,Athletics,2.67
+3,Great Britain,Swimming,18.61,Athletics,14.49,Cycling Track,14.28
+4,Canada,Athletics,11.5,Swimming,6.5,Cycling Track,4.87
+5,Czech Republic,Athletics,3.08,Tennis,2.81,Shooting,2.55
+6,Switzerland,Cycling Mountain Bike,2.7,Tennis,2.51,Shooting,2.07
+7,United States of America,Athletics,68.0,Swimming,63.31,Gymnastics Artistic,17.14
+8,People's Republic of China,Athletics,17.12,Weightlifting,16.19,Table Tennis,15.89
+9,Australia,Swimming,38.53,Athletics,8.49,Rowing,4.41
+10,Japan,Wrestling,15.39,Athletics,11.67,Judo,9.71
+11,Republic of Korea,Judo,7.99,Archery,7.55,Fencing,6.65
+12,Denmark,Cycling Track,3.11,Badminton,2.02,Sailing,1.63
+13,ROC,Fencing,19.69,Wrestling,16.32,Artistic Gymnastics,15.71
+14,Finland,Ice Hockey,2.15,Artistic Gymnastics,1.12,Athletics,1.05
+15,Kazakhstan,Wrestling,3.08,Boxing,2.41,Judo,1.48
+16,France,Judo,14.69,Croquet,11.61,Fencing,9.92
+17,New Zealand,Rowing,10.66,Cycling Track,7.45,Canoe Sprint,6.48
+18,Ireland,Rowing,3.36,Boxing,3.13,Equestrian,1.24
+19,Austria,Judo,1.78,Cycling Road,1.29,Artistic Gymnastics,1.08
+20,Spain,Athletics,12.08,Canoe Sprint,5.4,Sailing,3.18
+21,Germany,Equestrian,10.21,Judo,8.14,Athletics,7.71
+22,Estonia,Fencing,2.22,Artistic Gymnastics,1.11,Athletics,0.91
+23,Chile,Artistic Gymnastics,1.08,Athletics,0.72,Equestrian Dressage,0.42
+24,Brazil,Gymnastics Artistic,5.05,Judo,4.93,Athletics,4.42
+25,Belarus,Wrestling,2.89,Athletics,2.87,Canoe Sprint,2.4
+26,Ukraine,Athletics,5.72,Wrestling,5.27,Canoe Sprint,3.64
+27,Netherlands,Athletics,15.33,Cycling Track,14.46,Rowing,8.56
+28,Hungary,Canoe Sprint,15.01,Fencing,5.59,Swimming,4.25
+29,Croatia,Taekwondo,2.39,Tennis,2.23,Rowing,2.16
+30,Poland,Athletics,18.65,Canoe Sprint,3.82,Cycling Track,3.72
+31,Belgium,Equestrian Vaulting,3.92,Athletics,2.98,Artistic Gymnastics,2.5
+32,Latvia,Artistic Gymnastics,1.09,Gymnastics Artistic,0.83,Weightlifting,0.73
+33,"Hong Kong, China",Fencing,2.28,Cycling Track,2.06,Swimming,1.48
+34,Israel,Judo,2.97,Artistic Gymnastics,1.98,Rhythmic Gymnastics,1.38
+35,Turkey,Athletics,3.81,Karate,3.32,Wrestling,3.08
+36,Malta,Artistic Gymnastics,1.1,Wrestling,0.51,Cycling Road,0.34
+37,Andorra,Artistic Gymnastics,1.06,Lacrosse,0.25,Sailing,0.17
+38,Slovenia,Cycling Road,3.08,Swimming,1.59,Canoe Slalom,1.54
+39,Bulgaria,Wrestling,1.77,Rhythmic Gymnastics,1.43,Equestrian Dressage,1.32
+40,Slovakia,Shooting,1.7,Canoe Slalom,1.28,Artistic Gymnastics,1.12
+41,Romania,Rowing,5.36,Canoe Marathon,1.19,Equestrian Dressage,1.19
+42,Georgia,Judo,6.67,Wrestling,3.16,Weightlifting,2.71
+43,Armenia,Artistic Gymnastics,1.59,Wrestling,1.56,Weightlifting,0.84
+44,Lithuania,Artistic Gymnastics,1.1,Modern Pentathlon,0.9,Cycling Track,0.79
+45,Azerbaijan,Wrestling,2.63,Judo,2.01,Karate,1.94
+46,Mexico,Athletics,3.24,Diving,2.33,Archery,1.2
+47,Bosnia and Herzegovina,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+48,Republic of Moldova,Artistic Gymnastics,1.13,Canoe Sprint,1.08,Wrestling,0.53
+49,Argentina,Swimming,1.43,Polo,1.12,Artistic Gymnastics,1.05
+50,Chinese Taipei,Weightlifting,2.92,Badminton,2.12,Archery,1.97
+51,Puerto Rico,Artistic Gymnastics,1.07,Tennis,0.88,Athletics,0.8
+52,Kyrgyzstan,Wrestling,3.73,Artistic Gymnastics,1.09,Modern Pentathlon,0.33
+53,Colombia,Athletics,4.93,Cycling BMX,3.36,Cycling BMX Racing,2.31
+54,India,Shooting,2.67,Boxing,2.26,Wrestling,2.07
+55,Portugal,Athletics,2.76,Judo,2.03,Canoe Sprint,1.57
+56,San Marino,Shooting,1.12,Artistic Gymnastics,1.12,Wrestling,0.94
+57,Philippines,Boxing,2.13,Weightlifting,1.13,Artistic Gymnastics,1.08
+58,Lebanon,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+59,Uzbekistan,Boxing,3.99,Judo,2.74,Wrestling,2.42
+60,Albania,Artistic Gymnastics,1.06,Lacrosse,0.25,Polo,0.15
+61,Montenegro,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+62,Greece,Athletics,1.85,Artistic Gymnastics,1.61,Rowing,1.35
+63,Kosovo,Judo,2.83,Artistic Gymnastics,1.09,Wrestling,0.4
+64,Luxembourg,Artistic Gymnastics,1.1,Swimming,0.62,Wrestling,0.4
+65,Madagascar,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+66,Cyprus,Artistic Gymnastics,1.12,Sailing,0.45,Athletics,0.43
+67,Malaysia,Artistic Gymnastics,1.1,Cycling Track,0.98,Badminton,0.97
+68,Haiti,Artistic Gymnastics,1.1,Shooting,0.88,Lacrosse,0.29
+69,Thailand,Weightlifting,8.1,Taekwondo,1.29,Boxing,1.22
+70,Pakistan,Artistic Gymnastics,1.13,Boxing,0.54,Cycling Road,0.5
+71,Democratic Republic of Timor-Leste,Artistic Gymnastics,1.12,Lacrosse,0.31,Athletics,0.23
+72,Iceland,Artistic Gymnastics,1.1,Swimming,0.47,Lacrosse,0.29
+73,Monaco,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+74,Serbia,Shooting,3.98,Taekwondo,2.31,Wrestling,1.64
+75,Liechtenstein,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+76,Bolivia,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+77,Morocco,Athletics,1.54,Artistic Gymnastics,1.09,Gymnastics Artistic,0.87
+78,Ghana,Artistic Gymnastics,1.1,Boxing,0.76,Lacrosse,0.29
+79,Jamaica,Athletics,18.28,Artistic Gymnastics,1.09,Wrestling,0.41
+80,Eritrea,Artistic Gymnastics,1.12,Athletics,0.76,Cycling Road,0.35
+81,Saudi Arabia,Artistic Gymnastics,1.13,Equestrian Jumping,1.13,Karate,0.8
+82,Peru,Artistic Gymnastics,1.08,Athletics,0.82,Sailing,0.42
+83,Ecuador,Weightlifting,2.42,Athletics,2.14,Cycling Road,1.16
+84,Islamic Republic of Iran,Wrestling,5.32,Shooting,2.56,Karate,1.45
+85,"Virgin Islands, US",Artistic Gymnastics,1.13,Wrestling,0.55,Lacrosse,0.32
+86,American Samoa,Artistic Gymnastics,1.06,Lacrosse,0.25,Polo,0.15
+87,Mongolia,Judo,5.29,Wrestling,2.58,Artistic Gymnastics,1.09
+88,North Macedonia,Artistic Gymnastics,1.13,Taekwondo,0.69,Wrestling,0.42
+89,Nigeria,Wrestling,1.72,Athletics,1.17,Artistic Gymnastics,1.12
+90,Trinidad and Tobago,Artistic Gymnastics,1.12,Athletics,0.44,Wrestling,0.4
+91,Egypt,Weightlifting,2.41,Karate,2.32,Fencing,2.22
+92,Indonesia,Badminton,3.45,Weightlifting,2.51,Artistic Gymnastics,1.1
+93,Cuba,Boxing,9.16,Wrestling,5.39,Canoe Sprint,2.43
+94,Oman,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+95,Venezuela,Weightlifting,2.56,Wrestling,1.89,Swimming,1.87
+96,Bangladesh,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+97,Afghanistan,Artistic Gymnastics,1.06,Lacrosse,0.25,Polo,0.15
+98,Singapore,Swimming,1.62,Artistic Gymnastics,1.13,Wrestling,0.42
+99,Bhutan,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+100,Algeria,Artistic Gymnastics,1.06,Wrestling,0.9,Boxing,0.68
+101,Sri Lanka,Artistic Gymnastics,1.12,Wrestling,0.4,Lacrosse,0.3
+102,Nepal,Artistic Gymnastics,1.1,Wrestling,0.4,Boxing,0.38
+103,Refugee Olympic Team,Artistic Gymnastics,1.13,Judo,0.96,Wrestling,0.42
+104,Qatar,Athletics,1.58,Artistic Gymnastics,1.24,Weightlifting,1.12
+105,Kuwait,Artistic Gymnastics,1.1,Shooting,0.83,Wrestling,0.4
+106,Bahrain,Athletics,1.96,Artistic Gymnastics,1.07,Modern Pentathlon,0.42
+107,Senegal,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+108,Guatemala,Artistic Gymnastics,1.1,Athletics,1.04,Lacrosse,0.29
+109,Iraq,Artistic Gymnastics,1.1,Lacrosse,0.29,Polo,0.2
+110,Jordan,Artistic Gymnastics,1.1,Wrestling,0.82,Taekwondo,0.79
+111,Yemen,Artistic Gymnastics,1.13,Wrestling,0.55,Lacrosse,0.32
+112,Tunisia,Wrestling,2.21,Artistic Gymnastics,1.1,Fencing,1.09
+113,Aruba,Artistic Gymnastics,1.08,Lacrosse,0.27,Synchronized Swimming,0.22
+114,Myanmar,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+115,Vietnam,Artistic Gymnastics,1.24,Wrestling,0.58,Fencing,0.5
+116,Nicaragua,Artistic Gymnastics,1.13,Cycling Road,0.5,Wrestling,0.42
+117,United Arab Emirates,Artistic Gymnastics,1.13,Wrestling,0.55,Baseball,0.38
+118,Dominican Republic,Athletics,1.62,Weightlifting,1.52,Artistic Gymnastics,1.11
+119,South Africa,Swimming,1.72,Athletics,1.3,Artistic Gymnastics,1.13
+120,Sao Tome and Principe,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+121,Samoa,Artistic Gymnastics,1.13,Canoe Sprint,0.95,Wrestling,0.42
+122,Cook Islands,Artistic Gymnastics,1.08,Lacrosse,0.27,Canoe Sprint,0.2
+123,Mozambique,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+124,Belize,Artistic Gymnastics,1.08,Lacrosse,0.27,Canoe Sprint,0.18
+125,Ethiopia,Athletics,7.93,Artistic Gymnastics,1.11,Lacrosse,0.32
+126,Costa Rica,Artistic Gymnastics,1.08,Lacrosse,0.27,Surfing,0.2
+127,Paraguay,Artistic Gymnastics,1.13,Football,0.87,Wrestling,0.42
+128,Namibia,Artistic Gymnastics,1.1,Athletics,1.05,Wrestling,0.4
+129,Rwanda,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+130,Burkina Faso,Artistic Gymnastics,1.08,Athletics,0.72,Lacrosse,0.27
+131,Panama,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+132,Zambia,Artistic Gymnastics,1.13,Wrestling,0.69,Lacrosse,0.32
+133,CÃ´te d'Ivoire,Taekwondo,1.12,Artistic Gymnastics,1.12,Lacrosse,0.31
+134,Honduras,Artistic Gymnastics,1.1,Lacrosse,0.29,Polo,0.2
+135,Mauritius,Artistic Gymnastics,1.1,Wrestling,0.51,Lacrosse,0.29
+136,Eswatini,Artistic Gymnastics,1.12,Athletics,0.37,Lacrosse,0.31
+137,Uganda,Athletics,5.13,Artistic Gymnastics,1.11,Wrestling,0.41
+138,Cameroon,Artistic Gymnastics,1.08,Cycling Road,0.29,Lacrosse,0.27
+139,Democratic Republic of the Congo,Artistic Gymnastics,1.12,Boxing,0.39,Lacrosse,0.31
+140,Tajikistan,Artistic Gymnastics,1.12,Wrestling,0.86,Athletics,0.79
+141,Kenya,Athletics,21.08,Wrestling,1.38,Artistic Gymnastics,1.18
+142,Guyana,Artistic Gymnastics,1.1,Lacrosse,0.29,Polo,0.2
+143,Burundi,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+144,Botswana,Artistic Gymnastics,1.08,Athletics,0.74,Lacrosse,0.27
+145,Cape Verde,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+146,Somalia,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+147,El Salvador,Artistic Gymnastics,1.12,Lacrosse,0.31,Rowing,0.3
+148,Antigua and Barbuda,Artistic Gymnastics,1.06,Lacrosse,0.25,Polo,0.15
+149,Papua New Guinea,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+150,Angola,Artistic Gymnastics,1.06,Lacrosse,0.25,Canoe Sprint,0.18
+151,Fiji,Rugby Sevens,2.22,Rugby,1.4,Artistic Gymnastics,1.11
+152,Bermuda,Artistic Gymnastics,1.07,Triathlon,0.95,Lacrosse,0.28
+153,Syrian Arab Republic,Artistic Gymnastics,1.11,Weightlifting,0.62,Wrestling,0.57
+154,Vanuatu,Artistic Gymnastics,1.13,Wrestling,0.55,Lacrosse,0.32
+155,Togo,Artistic Gymnastics,1.12,Wrestling,0.4,Lacrosse,0.3
+156,Mali,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+157,Gabon,Artistic Gymnastics,1.12,Lacrosse,0.31,Polo,0.22
+158,Niger,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+159,Tonga,Artistic Gymnastics,1.12,Wrestling,0.4,Lacrosse,0.3
+160,Suriname,Artistic Gymnastics,1.12,Wrestling,0.4,Lacrosse,0.3
+161,Maldives,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+162,Guinea-Bissau,Artistic Gymnastics,1.1,Lacrosse,0.29,Polo,0.2
+163,Guam,Artistic Gymnastics,1.1,Lacrosse,0.29,Cycling Track,0.21
+164,Guinea,Artistic Gymnastics,1.1,Lacrosse,0.29,Polo,0.2
+165,Zimbabwe,Hockey,1.15,Artistic Gymnastics,1.12,Wrestling,0.55
+166,Chad,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+167,Kiribati,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+168,Comoros,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+169,Uruguay,Artistic Gymnastics,1.13,Wrestling,0.55,Athletics,0.45
+170,Sierra Leone,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+171,Palestine,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+172,Sudan,Artistic Gymnastics,1.12,Wrestling,0.4,Boxing,0.39
+173,Djibouti,Artistic Gymnastics,1.12,Lacrosse,0.31,Sailing,0.24
+174,Gambia,Artistic Gymnastics,1.12,Lacrosse,0.31,Polo,0.22
+175,Malawi,Artistic Gymnastics,1.1,Boxing,0.87,Wrestling,0.4
+176,Libya,Artistic Gymnastics,1.1,Wrestling,0.4,Boxing,0.38
+177,Benin,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+178,Seychelles,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+179,Lao People's Democratic Republic,Artistic Gymnastics,1.1,Wrestling,0.4,Shooting,0.31
+180,Turkmenistan,Weightlifting,1.27,Artistic Gymnastics,1.12,Wrestling,0.4
+181,Solomon Islands,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+182,Nauru,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+183,"Virgin Islands, British",Artistic Gymnastics,1.13,Wrestling,0.55,Lacrosse,0.32
+184,Lesotho,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+185,United Republic of Tanzania,Artistic Gymnastics,1.13,Wrestling,0.55,Baseball,0.38
+186,Liberia,Artistic Gymnastics,1.1,Wrestling,0.4,Boxing,0.38
+187,Bahamas,Athletics,1.88,Artistic Gymnastics,1.08,Swimming,0.48
+188,Dominica,Artistic Gymnastics,1.12,Lacrosse,0.31,Polo,0.22
+189,Grenada,Artistic Gymnastics,1.09,Athletics,0.79,Lacrosse,0.3
+190,Saint Lucia,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+191,Olympic Athletes from Russia,Figure skating,5.16,Ice Hockey,1.57,Artistic Gymnastics,1.26
+192,Democratic People's Republic of Korea,Weightlifting,5.84,Gymnastics Artistic,1.24,Shooting,1.21
+193,The Former Yugoslav Republic of Macedonia,Artistic Gymnastics,1.12,Wrestling,0.4,Lacrosse,0.3
+194,Korea Team,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+195,Russian Federation,Wrestling,20.12,Fencing,15.49,Swimming,14.28
+196,Ivory Coast,Taekwondo,2.56,Artistic Gymnastics,1.1,Wrestling,0.4
+197,Independent Olympic Athletes,Shooting,2.1,Wrestling,1.37,Artistic Gymnastics,1.09
+198,Barbados,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+199,Cambodia,Artistic Gymnastics,1.08,Lacrosse,0.27,Sailing,0.2
+200,Equatorial Guinea,Artistic Gymnastics,1.12,Lacrosse,0.31,Polo,0.22
+201,Congo,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+202,South Sudan,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+203,Refugee Olympic Athletes,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+204,Marshall Islands,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+205,Palau,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+206,US Virgin Islands,Artistic Gymnastics,1.12,Wrestling,0.86,Fencing,0.39
+207,Federated States of Micronesia,Artistic Gymnastics,1.12,Lacrosse,0.31,Polo,0.22
+208,Central African Republic,Artistic Gymnastics,1.08,Cycling Road,0.29,Lacrosse,0.27
+209,Cayman Islands,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+210,Brunei,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+211,Saint Vincent and the Grenadines,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+212,British Virgin Islands,Artistic Gymnastics,1.08,Lacrosse,0.27,Polo,0.18
+213,Swaziland,Artistic Gymnastics,1.12,Wrestling,0.4,Lacrosse,0.3
+214,Saint Kitts and Nevis,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+215,Tuvalu,Artistic Gymnastics,1.12,Wrestling,0.4,Lacrosse,0.3
+216,Netherlands Antilles,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+217,Serbia and Montenegro,Swimming,1.59,Shooting,1.41,Artistic Gymnastics,1.12
+218,Unified Team,Athletics,64.15,Swimming,31.1,Gymnastics Artistic,29.2
+219,Czechoslovakia,Shooting,5.64,Swimming,5.13,Canoe Slalom,3.77
+220,Mauritania,Artistic Gymnastics,1.1,Wrestling,0.82,Lacrosse,0.29
+221,Yugoslavia,Shooting,4.67,Wrestling,3.43,Basketball,2.66
+222,Soviet Union,Athletics,43.21,Wrestling,42.18,Swimming,30.67
+223,Federal Republic of Germany,Swimming,13.18,Fencing,12.84,Athletics,7.48
+224,German Democratic Republic (Germany),Swimming,63.9,Athletics,44.52,Canoe Sprint,18.91
+225,Yemen Arab Republic,Artistic Gymnastics,1.13,Wrestling,0.69,Lacrosse,0.32
+226,Yemen Democratic Republic,Artistic Gymnastics,1.13,Wrestling,0.55,Lacrosse,0.32
+227,South Vietnam,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+228,Rhodesia,Artistic Gymnastics,1.13,Swimming,0.64,Wrestling,0.42
+229,United Arab Republic,Wrestling,1.74,Boxing,1.36,Weightlifting,1.16
+230,Malaya,Artistic Gymnastics,1.1,Wrestling,0.4,Lacrosse,0.29
+231,West Indies Federation,Athletics,1.22,Artistic Gymnastics,1.13,Wrestling,0.55
+232,North Borneo,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
+233,Saar,Gymnastics Artistic,8.3,Artistic Gymnastics,1.13,Wrestling,0.55
+234,MIX,Polo,3.83,Sailing,3.32,Water Polo,2.9
+235,Australasia,Swimming,5.96,Rugby,1.21,Artistic Gymnastics,1.17
+236,Bohemia,Athletics,3.39,Tennis,1.29,Artistic Gymnastics,1.08
+237,Newfoundland,Artistic Gymnastics,1.13,Wrestling,0.42,Lacrosse,0.32
