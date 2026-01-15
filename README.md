@@ -42,15 +42,11 @@ npm install
 
 3. **Configurer la base de données**
 
-Créer une base PostgreSQL et configurer la connexion dans `server/db.js`:
-```javascript
-const pool = new Pool({
-  user: 'votre_user',
-  host: 'localhost',
-  database: 'votre_db',
-  password: 'votre_password',
-  port: 5432,
-});
+Créer une base PostgreSQL et configurer la connexion dans `.env`:
+```
+PORT=4000
+DATABASE_URL=postgres://votre_user:votre_mtp@localhost:5432/olympics
+
 ```
 
 4. **Importer les données**
