@@ -2,6 +2,10 @@
 
 Application web de prédictions sportives pour les Jeux Olympiques utilisant l'intelligence artificielle.
 
+## 🌐 Accès au site
+
+🔗 [https://jo-ipssi.dunkan.xyz/](https://jo-ipssi.dunkan.xyz/)
+
 ## 🚀 Technologies
 
 **Frontend**
